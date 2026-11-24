@@ -1,0 +1,3 @@
+Cursor blinks at three
+one more log line lies again
+it was a typo
